@@ -1,6 +1,6 @@
 # RoomDatabaseDEMO
 
--An app I made to learn about Room Databse.
+-An app I made to learn about Room Database.
 
 ## Built With 
 
